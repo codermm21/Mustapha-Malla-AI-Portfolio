@@ -1,0 +1,17 @@
+
+picarx
+robot-hat
+vilib
+readchar
+smbus2
+gpiozero
+pyaudio
+spidev
+pillow
+pygame>=2.1.2
+Flask
+imutils
+qrcode
+pyzbar
+protobuf>=3.20.0
+numpy
