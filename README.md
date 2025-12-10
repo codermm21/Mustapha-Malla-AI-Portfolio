@@ -23,8 +23,7 @@ The following key skills and technologies were employed in the development of th
 
 Feel free to connect or reach out for more details about this project:
 
-*   **GitHub**: https://github.com/oO0Ool
-*   **Email**: adrian7vel@gmail.com
-
+*   **GitHub**: https://github.com/codermm21
+*   **Email**: Mustaphamm1005@gmail.com
 ---
 
